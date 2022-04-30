@@ -9,7 +9,7 @@
     "name": "1password7",
     "created_at": 1635150518,
     "updated_at": 1648029358,
-    "download_count": 8377
+    "download_count": 8379
   },
   {
     "name": "8-ball",
@@ -27,7 +27,7 @@
     "name": "aws",
     "created_at": 1636560596,
     "updated_at": 1650034497,
-    "download_count": 1028
+    "download_count": 1029
   },
   {
     "name": "android-adb-input",
@@ -39,7 +39,7 @@
     "name": "apple-notes",
     "created_at": 1642421002,
     "updated_at": 1650955052,
-    "download_count": 4720
+    "download_count": 4723
   },
   {
     "name": "asana",
@@ -93,7 +93,7 @@
     "name": "betterdiscord-store",
     "created_at": 1645432264,
     "updated_at": 1648485385,
-    "download_count": 98
+    "download_count": 99
   },
   {
     "name": "bible",
@@ -135,7 +135,7 @@
     "name": "bitwarden",
     "created_at": 1635151679,
     "updated_at": 1650692786,
-    "download_count": 3229
+    "download_count": 3231
   },
   {
     "name": "brave",
@@ -147,7 +147,7 @@
     "name": "brew",
     "created_at": 1635240034,
     "updated_at": 1648034865,
-    "download_count": 9147
+    "download_count": 9151
   },
   {
     "name": "browser-bookmarks",
@@ -237,7 +237,7 @@
     "name": "cheatsheets",
     "created_at": 1644478734,
     "updated_at": 1647387404,
-    "download_count": 1861
+    "download_count": 1862
   },
   {
     "name": "choose-a-license",
@@ -285,13 +285,13 @@
     "name": "cloudflare",
     "created_at": 1645546170,
     "updated_at": 1647387416,
-    "download_count": 332
+    "download_count": 333
   },
   {
     "name": "coffee",
     "created_at": 1634758443,
     "updated_at": 1647297714,
-    "download_count": 3097
+    "download_count": 3098
   },
   {
     "name": "coinbase-pro",
@@ -303,7 +303,7 @@
     "name": "coingecko",
     "created_at": 1640105963,
     "updated_at": 1647387427,
-    "download_count": 486
+    "download_count": 487
   },
   {
     "name": "coinmarketcap-crypto-price-crawler",
@@ -315,7 +315,7 @@
     "name": "color-casket",
     "created_at": 1650905278,
     "updated_at": 1650905281,
-    "download_count": 73
+    "download_count": 74
   },
   {
     "name": "commitlint",
@@ -435,13 +435,13 @@
     "name": "debank",
     "created_at": 1641372039,
     "updated_at": 1641385806,
-    "download_count": 59
+    "download_count": 60
   },
   {
     "name": "deepcast",
     "created_at": 1634676636,
     "updated_at": 1648147510,
-    "download_count": 3494
+    "download_count": 3495
   },
   {
     "name": "defichain-dobby",
@@ -489,7 +489,7 @@
     "name": "discord",
     "created_at": 1651297474,
     "updated_at": 1651297474,
-    "download_count": 4
+    "download_count": 6
   },
   {
     "name": "displayplacer",
@@ -501,13 +501,13 @@
     "name": "dock",
     "created_at": 1650300396,
     "updated_at": 1650300396,
-    "download_count": 73
+    "download_count": 74
   },
   {
     "name": "docker",
     "created_at": 1634928690,
     "updated_at": 1641385836,
-    "download_count": 2786
+    "download_count": 2787
   },
   {
     "name": "dockerhub",
@@ -519,13 +519,13 @@
     "name": "domainr",
     "created_at": 1635446920,
     "updated_at": 1641385844,
-    "download_count": 508
+    "download_count": 509
   },
   {
     "name": "doppler-share-secrets",
     "created_at": 1633969426,
     "updated_at": 1648129921,
-    "download_count": 352
+    "download_count": 353
   },
   {
     "name": "dot-new",
@@ -543,7 +543,7 @@
     "name": "dropbox",
     "created_at": 1650602882,
     "updated_at": 1650602883,
-    "download_count": 63
+    "download_count": 65
   },
   {
     "name": "easy-new-file",
@@ -573,7 +573,7 @@
     "name": "emoji",
     "created_at": 1634315031,
     "updated_at": 1650948278,
-    "download_count": 6411
+    "download_count": 6412
   },
   {
     "name": "encoding-tools",
@@ -615,13 +615,13 @@
     "name": "figma-files-raycast-extension",
     "created_at": 1634586920,
     "updated_at": 1648032479,
-    "download_count": 3454
+    "download_count": 3455
   },
   {
     "name": "file-manager",
     "created_at": 1637186084,
     "updated_at": 1648033650,
-    "download_count": 3416
+    "download_count": 3417
   },
   {
     "name": "finnish-dictionary",
@@ -675,7 +675,7 @@
     "name": "gif-search",
     "created_at": 1646852244,
     "updated_at": 1650872112,
-    "download_count": 2121
+    "download_count": 2123
   },
   {
     "name": "gitfox",
@@ -687,7 +687,7 @@
     "name": "github",
     "created_at": 1635933725,
     "updated_at": 1648129921,
-    "download_count": 4769
+    "download_count": 4770
   },
   {
     "name": "github-for-enterprise",
@@ -699,13 +699,13 @@
     "name": "github-gist",
     "created_at": 1649361618,
     "updated_at": 1650459169,
-    "download_count": 138
+    "download_count": 139
   },
   {
     "name": "github-repository-search",
     "created_at": 1634916202,
     "updated_at": 1649685163,
-    "download_count": 2123
+    "download_count": 2124
   },
   {
     "name": "github-review-requests",
@@ -735,7 +735,7 @@
     "name": "gitlab",
     "created_at": 1634126995,
     "updated_at": 1650469147,
-    "download_count": 2057
+    "download_count": 2058
   },
   {
     "name": "gitmoji",
@@ -759,7 +759,7 @@
     "name": "google-chrome",
     "created_at": 1635276516,
     "updated_at": 1648032020,
-    "download_count": 4153
+    "download_count": 4155
   },
   {
     "name": "google-chrome-profiles",
@@ -777,7 +777,7 @@
     "name": "google-drive",
     "created_at": 1651047334,
     "updated_at": 1651229950,
-    "download_count": 84
+    "download_count": 86
   },
   {
     "name": "google-maps-search",
@@ -795,19 +795,19 @@
     "name": "google-meet",
     "created_at": 1646559984,
     "updated_at": 1646559984,
-    "download_count": 787
+    "download_count": 789
   },
   {
     "name": "google-search",
     "created_at": 1642019974,
     "updated_at": 1642019974,
-    "download_count": 2516
+    "download_count": 2517
   },
   {
     "name": "translate",
     "created_at": 1635337316,
     "updated_at": 1649284353,
-    "download_count": 8465
+    "download_count": 8467
   },
   {
     "name": "google-trends",
@@ -819,13 +819,13 @@
     "name": "google-workspace",
     "created_at": 1635933732,
     "updated_at": 1648129920,
-    "download_count": 2122
+    "download_count": 2124
   },
   {
     "name": "go-package-search",
     "created_at": 1650264890,
     "updated_at": 1650264972,
-    "download_count": 33
+    "download_count": 34
   },
   {
     "name": "grafana",
@@ -1155,7 +1155,7 @@
     "name": "linear",
     "created_at": 1634728267,
     "updated_at": 1648129921,
-    "download_count": 901
+    "download_count": 902
   },
   {
     "name": "linguee",
@@ -1185,7 +1185,7 @@
     "name": "macupdater",
     "created_at": 1650452219,
     "updated_at": 1650452223,
-    "download_count": 89
+    "download_count": 90
   },
   {
     "name": "brew-services",
@@ -1203,7 +1203,7 @@
     "name": "masscode",
     "created_at": 1650886594,
     "updated_at": 1650886594,
-    "download_count": 9
+    "download_count": 10
   },
   {
     "name": "material-icons",
@@ -1251,7 +1251,7 @@
     "name": "music",
     "created_at": 1637232805,
     "updated_at": 1648032260,
-    "download_count": 3913
+    "download_count": 3915
   },
   {
     "name": "must",
@@ -1263,7 +1263,7 @@
     "name": "myip",
     "created_at": 1639658680,
     "updated_at": 1649166746,
-    "download_count": 1711
+    "download_count": 1712
   },
   {
     "name": "nativebase-docs",
@@ -1281,7 +1281,7 @@
     "name": "netlify",
     "created_at": 1640278236,
     "updated_at": 1647387476,
-    "download_count": 366
+    "download_count": 367
   },
   {
     "name": "nextcloud",
@@ -1317,7 +1317,7 @@
     "name": "notion",
     "created_at": 1636466382,
     "updated_at": 1641986024,
-    "download_count": 5219
+    "download_count": 5221
   },
   {
     "name": "search-notion",
@@ -1395,7 +1395,7 @@
     "name": "password-generator",
     "created_at": 1649340932,
     "updated_at": 1649340935,
-    "download_count": 229
+    "download_count": 231
   },
   {
     "name": "paste-without-formatting",
@@ -1515,7 +1515,7 @@
     "name": "qrcode-generator",
     "created_at": 1644432901,
     "updated_at": 1647642062,
-    "download_count": 683
+    "download_count": 684
   },
   {
     "name": "qr-code-scanner",
@@ -1533,7 +1533,7 @@
     "name": "calendar",
     "created_at": 1636562916,
     "updated_at": 1641385650,
-    "download_count": 2491
+    "download_count": 2492
   },
   {
     "name": "quick-event",
@@ -1545,7 +1545,7 @@
     "name": "quick-open-project",
     "created_at": 1634238537,
     "updated_at": 1644907580,
-    "download_count": 545
+    "download_count": 546
   },
   {
     "name": "quick-search",
@@ -1599,7 +1599,7 @@
     "name": "random-email",
     "created_at": 1641850672,
     "updated_at": 1641850672,
-    "download_count": 414
+    "download_count": 415
   },
   {
     "name": "random-password-generator",
@@ -1623,7 +1623,7 @@
     "name": "raycast-wallpaper",
     "created_at": 1649679713,
     "updated_at": 1650811071,
-    "download_count": 189
+    "download_count": 190
   },
   {
     "name": "raynab",
@@ -1635,13 +1635,13 @@
     "name": "ray-so",
     "created_at": 1637100119,
     "updated_at": 1650147560,
-    "download_count": 2050
+    "download_count": 2051
   },
   {
     "name": "readwise",
     "created_at": 1649180272,
     "updated_at": 1649180273,
-    "download_count": 107
+    "download_count": 108
   },
   {
     "name": "rebrandly",
@@ -1683,7 +1683,7 @@
     "name": "render",
     "created_at": 1642420453,
     "updated_at": 1647387487,
-    "download_count": 34
+    "download_count": 35
   },
   {
     "name": "rescuetime-focus-session-trigger",
@@ -1749,7 +1749,7 @@
     "name": "linux-command",
     "created_at": 1647011062,
     "updated_at": 1647011062,
-    "download_count": 143
+    "download_count": 144
   },
   {
     "name": "search-mdn",
@@ -1803,7 +1803,7 @@
     "name": "sentry",
     "created_at": 1646983578,
     "updated_at": 1649339732,
-    "download_count": 291
+    "download_count": 292
   },
   {
     "name": "audio-device",
@@ -1851,7 +1851,7 @@
     "name": "slack",
     "created_at": 1648384600,
     "updated_at": 1648540499,
-    "download_count": 2145
+    "download_count": 2148
   },
   {
     "name": "slack-status",
@@ -1893,7 +1893,7 @@
     "name": "speedtest",
     "created_at": 1636704841,
     "updated_at": 1645779812,
-    "download_count": 3461
+    "download_count": 3463
   },
   {
     "name": "spotify-controls",
@@ -1983,7 +1983,7 @@
     "name": "things",
     "created_at": 1634711341,
     "updated_at": 1648111143,
-    "download_count": 3410
+    "download_count": 3411
   },
   {
     "name": "ticktick",
@@ -2049,7 +2049,7 @@
     "name": "trello",
     "created_at": 1646672043,
     "updated_at": 1651078102,
-    "download_count": 240
+    "download_count": 241
   },
   {
     "name": "tunnelblick",
@@ -2103,7 +2103,7 @@
     "name": "ulysses",
     "created_at": 1642753671,
     "updated_at": 1642969264,
-    "download_count": 202
+    "download_count": 203
   },
   {
     "name": "unicode-symbols",
@@ -2127,7 +2127,7 @@
     "name": "url-tools",
     "created_at": 1644907445,
     "updated_at": 1644907446,
-    "download_count": 465
+    "download_count": 466
   },
   {
     "name": "uuid-generator",
@@ -2151,7 +2151,7 @@
     "name": "vercast",
     "created_at": 1634308844,
     "updated_at": 1641386576,
-    "download_count": 854
+    "download_count": 855
   },
   {
     "name": "vim-bro",
@@ -2187,7 +2187,7 @@
     "name": "whatsapp",
     "created_at": 1638824252,
     "updated_at": 1648485994,
-    "download_count": 1938
+    "download_count": 1939
   },
   {
     "name": "wikipedia",
@@ -2235,7 +2235,7 @@
     "name": "youtube",
     "created_at": 1636026026,
     "updated_at": 1641386627,
-    "download_count": 4935
+    "download_count": 4936
   },
   {
     "name": "youtube-companion",
