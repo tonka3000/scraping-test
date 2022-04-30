@@ -9,14 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Build
-      run: npm install
     - uses: actions/setup-python@v3
       with:
         python-version: '3.9'
         architecture: x64
-    - run: pip install -r requirements.txt
-    - run: python fetch.py
+    - name: Install requirements
+      run: pip install -r requirements.txt
+    - name: Fetch data
+      run: python fetch.py
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
